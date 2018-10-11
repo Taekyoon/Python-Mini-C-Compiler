@@ -1,0 +1,7 @@
+*.zip
+*.ast
+*.uco
+*.pyc
+*.txt
+__pycache__
+.DS_Store
